@@ -1,5 +1,8 @@
 # HTML5 BOILERPLATE
 
+## Description
+Boilerplate for html5.
+
 ## Features
 
 * A finely-tuned starter template: Reap the benefits of 10 years of analysis,
