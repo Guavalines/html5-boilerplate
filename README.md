@@ -11,7 +11,7 @@ Boilerplate for html5.
 - Useful CSS helper classes.
 - Default print styles, performance optimized.
 - Protection against any stray `console` statements causing JS errors.
-- "Delete-key friendly." Easy to strip out unecessary parts.
+- "Delete-key friendly." Easy to strip out unnecessary parts.
 - Extensive documentation.
 
 
