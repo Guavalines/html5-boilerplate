@@ -6,9 +6,7 @@ Boilerplate for html5.
 ## Features
 
 - Starter template.
-* Placeholder Open Graph elements and attributes.
-* An example package.json file with [WebPack](https://webpack.js.org/) commands
-  built in to jumpstart application development.
+- Placeholder Open Graph elements and attributes.
 * Placeholder CSS Media Queries.
 * Useful CSS helper classes.
 * Default print styles, performance optimized.
