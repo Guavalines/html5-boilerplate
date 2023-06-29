@@ -10,8 +10,8 @@ Boilerplate for html5.
 - Placeholder CSS Media Queries.
 - Useful CSS helper classes.
 - Default print styles, performance optimized.
-- Protection against any stray `console` statements causing JS errors in older browsers.
-- "Delete-key friendly." Easy to strip out parts you don't need.
+- Protection against any stray `console` statements causing JS errors.
+- "Delete-key friendly." Easy to strip out unecessary parts.
 - Extensive documentation.
 
 
