@@ -5,16 +5,7 @@ Boilerplate for html5.
 
 ## Features
 
-* A finely-tuned starter template: Reap the benefits of 10 years of analysis,
-  research and experimentation by over 200 contributors.
-* Designed with progressive enhancement in mind.
-* Includes:
-  * [`Normalize.css`](https://necolas.github.io/normalize.css/)
-    for CSS normalizations and common bug fixes.
-  * A custom build of [`Modernizr`](https://modernizr.com/) for feature
-    detection.
-  * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
-    that improve the web site's performance and security.
+- Starter template.
 * Placeholder Open Graph elements and attributes.
 * An example package.json file with [WebPack](https://webpack.js.org/) commands
   built in to jumpstart application development.
